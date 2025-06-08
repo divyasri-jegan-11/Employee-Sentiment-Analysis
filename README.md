@@ -63,3 +63,10 @@ The main goal is to evaluate employee sentiment and engagement by performing the
    ```bash
    git clone https://github.com/username/employee-sentiment-analysis.git
 
+2. Install the required Python packages:
+   ```bash
+   pip install pandas matplotlib seaborn openAPI sklearn TextBlob Transformer
+  
+   ```
+
+
