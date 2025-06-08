@@ -13,10 +13,6 @@ The main goal is to evaluate employee sentiment and engagement by performing the
   - Flight Risk Identification: A Flight risk is any employee who has sent 4 or more negative mails in a given month.
   -  Predictive Modeling: Develop a linear regression model to further analyze sentiment trends.
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/employee-sentiment-analysis.git
 
 ## Summary of Tasks
 
@@ -62,4 +58,8 @@ The main goal is to evaluate employee sentiment and engagement by performing the
 - Celebrate and promote engagement from top performers.
 - Incorporate sentiment analytics in ongoing HR review cycles.
 
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/employee-sentiment-analysis.git
 
