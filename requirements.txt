@@ -1,0 +1,6 @@
+Data - test.xlsx
+Notebook - employee_sentiment_analysis.ipynb
+csv outputs - output csv files of the analysis
+readme.md - summary and overview of the task
+visualizations - visuals representing the trend and analysis of the task
+Final Report

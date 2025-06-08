@@ -1,0 +1,50 @@
+
+# Employee Sentiment Analysis
+
+This project analyzes internal employee messages to label sentiment, monitor engagement, and identify potential flight risks.
+
+## Summary of Tasks
+
+1. **Sentiment Labeling**: Messages were labeled as Positive, Negative, or Neutral using TextBlob.
+2. **EDA**: Visualizations showed sentiment distribution and message frequency over time.
+3. **Score Calculation**: Monthly sentiment scores were computed per employee.
+4. **Employee Ranking**: Employees ranked by monthly sentiment.
+5. **Flight Risk Detection**: Identified employees with 4+ negative messages in any 30-day window.
+6. **Predictive Modeling**: A linear regression model was built to forecast sentiment trends.
+
+## Top 3 Positive Employees
+- kayne.coulter@enron.com (Score: 5)
+- patti.thompson@enron.com (Score: 5)
+- eric.bass@enron.com (Score: 4)
+
+## Top 3 Negative Employees
+- bobette.riner@ipgdirect.com (Score: 0)
+- john.arnold@enron.com (Score: 2)
+- johnny.palmer@enron.com (Score: 2)
+
+## Employees Flagged as Flight Risks
+- john.arnold@enron.com
+- patti.thompson@enron.com
+- bobette.riner@ipgdirect.com
+- rhonda.denton@enron.com
+- johnny.palmer@enron.com
+- lydia.delgado@enron.com
+- sally.beck@enron.com
+
+## 🔍 Key Insights
+- Majority of employee communications were positive in tone.
+- Specific employees exhibited consistent negativity across multiple months.
+- Repeated negative messages in short time frames helped flag potential flight risks.
+- Sentiment trends vary by time period and can serve as early indicators of morale shifts.
+
+## Visuals Included
+
+ - Better understanding of the analysis and trend analysis.
+ - Linear model trend for the predictive model is being visualized.
+
+## 💡 Recommendations
+- Reach out to at-risk employees for feedback or intervention.
+- Celebrate and promote engagement from top performers.
+- Incorporate sentiment analytics in ongoing HR review cycles.
+
+
