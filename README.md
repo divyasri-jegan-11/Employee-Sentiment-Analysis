@@ -4,7 +4,7 @@
  - This project analyzes internal employee messages to label sentiment, monitor engagement, and identify potential flight risks.
  - It analyzes employee messages to evaluate sentiment and engagement.
 
-## 2. Project Objective
+##  Project Objective
 The main goal is to evaluate employee sentiment and engagement by performing the following:
   - Sentiment Labeling: Automatically label each message as Positive, Negative, or Neutral.
   -  Exploratory Data Analysis (EDA): Analyze and visualize the data to understand its structure and underlying trends.
