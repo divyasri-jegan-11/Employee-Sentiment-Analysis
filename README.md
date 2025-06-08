@@ -6,12 +6,12 @@
 
 ## 2. Project Objective
 The main goal is to evaluate employee sentiment and engagement by performing the following:
-    - Sentiment Labeling: Automatically label each message as Positive, Negative, or Neutral.
-    - Exploratory Data Analysis (EDA): Analyze and visualize the data to understand its structure and underlying trends.
-    - Employee Score Calculation: Compute a monthly sentiment score for each employee based on their messages.
-    - Employee Ranking: Identify and rank employees by their sentiment scores.
-    - Flight Risk Identification: A Flight risk is any employee who has sent 4 or more negative mails in a given month.
-    - Predictive Modeling: Develop a linear regression model to further analyze sentiment trends.
+  - Sentiment Labeling: Automatically label each message as Positive, Negative, or Neutral.
+  -  Exploratory Data Analysis (EDA): Analyze and visualize the data to understand its structure and underlying trends.
+  - Employee Score Calculation: Compute a monthly sentiment score for each employee based on their messages.
+  - Employee Ranking: Identify and rank employees by their sentiment scores.
+  - Flight Risk Identification: A Flight risk is any employee who has sent 4 or more negative mails in a given month.
+  -  Predictive Modeling: Develop a linear regression model to further analyze sentiment trends.
 
 ## Setup
 1. Clone the repository:
