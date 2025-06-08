@@ -1,7 +1,19 @@
 
 # Employee Sentiment Analysis
 
-This project analyzes internal employee messages to label sentiment, monitor engagement, and identify potential flight risks.
+ - This project analyzes internal employee messages to label sentiment, monitor engagement, and identify potential flight risks.
+ - It analyzes employee messages to evaluate sentiment and engagement.
+
+## Features
+- Sentiment labeling: Positive, Negative, Neutral
+- Rolling 30-day flight risk detection
+- Visualizations and insights
+- Linear regression for sentiment trends
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/employee-sentiment-analysis.git
 
 ## Summary of Tasks
 
