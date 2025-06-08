@@ -68,5 +68,6 @@ The main goal is to evaluate employee sentiment and engagement by performing the
    pip install pandas matplotlib seaborn openAPI sklearn TextBlob Transformer
   
    ```
-
+# 📄 License
+This project is licensed under the MIT License.
 
